@@ -14,3 +14,6 @@ Jupyter and Tableau
 
 Language:
 Python
+
+Tableau Link:
+[https://public.tableau.com/authoring/6_7Covid-19Dashboard/Covid-19Storyboard_1#1]
